@@ -1,1 +1,1 @@
-# nlp_workshop
+# Notebooks for an NLP Workshop
